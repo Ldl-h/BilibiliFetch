@@ -1,4 +1,4 @@
-# Bilibili 内容获取插件 (VCP)
+# Bilibili 内容获取插件 (VCP)当前无需替换，VCP的B站插件已领先本仓库喽。
 
 本插件是针对强大的 AI 工具箱项目 [VCPToolBox](https://github.com/lioensky/VCPToolBox) 中原有的 B 站字幕插件进行的加强版。
 
